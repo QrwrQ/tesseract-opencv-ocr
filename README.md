@@ -6,6 +6,8 @@ linux系统（我用的是ubuntu16.04）
 
 python3.5
 
+下载tesseract
+
 pakages: cv2,imutilsnumpy,pytesseract,argparse
 
 如果是在我的系统的上用可以直接输入命令
